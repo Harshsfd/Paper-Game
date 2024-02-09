@@ -8,6 +8,7 @@ Language :- Javascript, HTML, CSS
 
 Live Demo :- https://harshsfd.github.io/Paper-Game/
 
+linkedin :- https://www.linkedin.com/in/harshsfd/
 
 Preview of project :-
 
